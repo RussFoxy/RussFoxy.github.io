@@ -1,0 +1,34 @@
+h4 {
+  color: red;
+  font-size: 60px;
+}
+/*Below is for building fonts. "Ubuntu" is google-hosted and first pick, if google servers are down, we default to arial*/
+body {
+  font-family: 'Ubuntu', arial, sans-serif;
+}
+.display-3{
+  color: #4B0082;
+}
+h3 {
+  color: 	#4B0082;
+  font-size: 40px;
+}
+h2 {
+  color: 	#4B0082;
+  font-size: 25px;
+}
+img {
+  width: 400px;
+}
+.logo{
+  width: 150px;
+}
+body {
+  background-color: lavender;
+}
+body {
+  font-family: arial
+}
+.jumbotron {
+  background-image: vball_banner.jpg;
+}
