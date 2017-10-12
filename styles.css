@@ -1,21 +1,42 @@
 h4 {
-  color: red;
-  font-size: 60px;
+  color: Violet;
+  font-size: 45px;
 }
 /*Below is for building fonts. "Ubuntu" is google-hosted and first pick, if google servers are down, we default to arial*/
 body {
   font-family: 'Ubuntu', arial, sans-serif;
 }
-.display-3{
-  color: #4B0082;
+.jumbotron {
+  background-image: url(volleyball_court.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar {
+  background-color: thistle;
+}
+
+.jumbotron-guide {
+  background-color: mediumpurple;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron-intramurals {
+  background-color: mediumpurple;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron-tournaments {
+  background-color: mediumpurple;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h3 {
   color: 	#4B0082;
-  font-size: 40px;
+  font-size: 32px;
 }
 h2 {
   color: 	#4B0082;
-  font-size: 25px;
+  font-size: 20px;
 }
 img {
   width: 400px;
@@ -23,12 +44,19 @@ img {
 .logo{
   width: 150px;
 }
+.tip_angle_1.png{
+  width: 800px;
+}
+.tip_angle_2.JPG{
+  width: 800px;
+}
+.volleyball_court.jpg{
+  width: 800px;
+}
+
 body {
   background-color: lavender;
 }
 body {
   font-family: arial
-}
-.jumbotron {
-  background-image: vball_banner.jpg;
 }
